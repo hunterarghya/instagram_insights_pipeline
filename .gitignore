@@ -1,0 +1,15 @@
+.venv
+.env
+*.pyc
+__pycache__
+
+# Exported data files
+*.csv
+*.xlsx
+*.xls
+
+# Local test scripts
+test_scripts/
+sample_dashboard.html
+
+
